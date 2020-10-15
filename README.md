@@ -9,4 +9,4 @@
 
 ## Week 5
 ### 1. I set up the github site and firebase site for the project(2 hrs)
-### 2. I was assigned to do the use case and sequence diagrams.
+### 2. I was assigned(by Dharian) to do the use case and sequence diagrams.
