@@ -8,5 +8,5 @@
 ### 2. I was declared the product owner.
 
 ## Week 5
-### 1. I set up the github site and firebase site for the project
+### 1. I set up the github site and firebase site for the project(2 hrs)
 ### 2. I was assigned to do the use case and system diagrams.
