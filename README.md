@@ -15,3 +15,4 @@
 
 ## Week 6
 ### 5. 19/10/2020- I finished working on the use cases(2 1/2hrs)
+### 6. 19/10/2020- I finished working on use case diagrams.
