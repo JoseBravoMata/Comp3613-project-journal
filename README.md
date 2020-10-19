@@ -12,3 +12,6 @@
 ### 2. I was assigned(by Dharian) to do the use case and sequence diagrams.
 ### 3. 16/10/2020- I worked on creating use case diagrams(6 hrs).
 ### 4. 17/10/2020- I worked on creating use cases.
+
+## Week 6
+### 5. 19/10/2020- I finished working on the use cases(2 1/2hrs)
