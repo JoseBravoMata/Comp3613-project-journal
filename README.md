@@ -9,7 +9,7 @@
 
 ## Week 5
 ### 1. I set up the github site and firebase site for the project(2 hrs)
-### 2. I was assigned(by Dharian) to do the use case and sequence diagrams.
+### 2. 15/10/2020 I was assigned(by Dharian) to do the use case and sequence diagrams.
 ### 3. 16/10/2020- I worked on creating use case diagrams(6 hrs).
 ### 4. 17/10/2020- I worked on creating use cases.
 
