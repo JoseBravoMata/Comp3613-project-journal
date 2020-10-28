@@ -17,3 +17,6 @@
 ### 1. 19/10/2020- I finished working on the use cases(2 1/2hrs)
 ### 2. 19/10/2020- I finished working on use case diagrams.
 ### 3. 20/10/2020- I finished work on the sequence diagram (1hr).
+
+## Week 7
+### 1. 28/10/2020- I started to work on the product backlog(user stories)(<1hr)
