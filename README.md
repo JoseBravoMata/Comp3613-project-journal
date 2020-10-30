@@ -20,3 +20,4 @@
 
 ## Week 7
 ### 1. 28/10/2020- I started to work on the product backlog(user stories)(<1hr)
+### 2. 30/10/2020- I worked in the product backlog(user stores)(<1hr)
