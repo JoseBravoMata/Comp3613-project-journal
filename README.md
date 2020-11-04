@@ -19,10 +19,10 @@
 ### 3. 20/10/2020- I finished work on the sequence diagram (1hr).
 
 ## Week 7
-### 1. 28/10/2020- I started to work on the product backlog(user stories)(<1hr)
-### 2. 30/10/2020- I worked on the product backlog(user stores)(<1hr)
+### 1. 28/10/2020- I started to work on the product backlog(user stories)(<1hr).
+### 2. 30/10/2020- I worked on the product backlog(user stores)(<1hr).
 
 ## Week 8
 ### 1. 03/11/2020- I started work on the login page(1hr)
 ### 2. ""- I commited the login page to github(<1hr)
-### 3. 04/11/2020- I integrated Jasmine(javascript tesing framework) for testing and tested the function (createUser() and signIn()) from authentication.js. 
+### 3. 04/11/2020- I integrated Jasmine(javascript tesing framework) for testing and tested the functions (createUser() and signIn()) from authentication.js. I implemented tests for registerUser and registerTutor(and wrote up the functions. I integrated the login to the Home.html page that Dharian made. I uploaded version(0.0.2) of the app to the github(this version contains the log in). (6 hrs total)
