@@ -25,3 +25,4 @@
 ## Week 8
 ### 1. 03/11/2020- I started work on the login page(1hr)
 ### 2. ""- I commited the login page to github(<1hr)
+### 3. I integrated Jasmine(javascript tesing framework) for testing and tested the function (createUser() and signIn()) from authentication.js. 
