@@ -28,4 +28,6 @@
 ### 3. 05/11/2020- I integrated the firebase database.I applied tests for and added the functions setUpUserDoc and setUpTutorDoc to the register page, I fixed and refactored all code for the register page until all tests had a pass. I partially fixed the UI for the log in and register pages. I linked the Home.html page to the index and register pages. After everything was finished I uploaded the app as the version 0.0.2 to the github. I updated thd Trello board to show the login and register pages were completed for this sprint.(4 hrs)
 
 ## Week 9
-### 1. 10/11/2020- I worked on the gantt chart and burndown chart for the 2nd sprint. I added all the current work to the gantt chart and to the burndown chart. I noticed that we may be proceeding at a good pace for the project. (4hrs)
+### 1. 10/11/2020- I worked on the gantt chart and burndown chart for the 2nd sprint. I added all the current work to the gantt chart and to the burndown chart. I noticed that we may be proceeding at a good pace for the project based on the burndown chart. (4hrs)
+### 2. 11/11/2020- I completed the gantt chart fot sprint one and worked on the burndown chsrts for sprints 1 and 2. I completed the gantt chart for sprint two and the burndown chart for sprint two. I posted the charts in the whatsapp group. I compiled the work from sprint 1 into the gantt chart for sprint two to get the total view.(4 hrs)
+ 
