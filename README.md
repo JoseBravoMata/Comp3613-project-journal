@@ -30,4 +30,4 @@
 ## Week 9
 ### 1. 10/11/2020- I worked on the gantt chart and burndown chart for the 2nd sprint. I added all the current work to the gantt chart and to the burndown chart. I noticed that we may be proceeding at a good pace for the project based on the burndown chart. (4hrs)
 ### 2. 11/11/2020- I completed the gantt chart fot sprint one and worked on the burndown chsrts for sprints 1 and 2. I completed the gantt chart for sprint two and the burndown chart for sprint two. I posted the charts in the whatsapp group. I compiled the work from sprint 1 into the gantt chart for sprint two to get the total view.(4 hrs)
- 
+### 3. 12/11/2020- I edited the sprint one gantt chart and completed the sprint one burndown chart. I submitted both charts to the sprint 1 Trello board and the sprint 2 charts to the sprint 2 Trello board.
