@@ -35,3 +35,4 @@
 
 ## Week 10
 ### 1. 16/11/2020- I worked on fixing the tests from jasmine(I made the tests correctly run randomized). I added getUserCallback() which now retrieves a user via observer in order to fix an error with enableTutorOptions(). Two tests( for setUpUserDoc & setUpTutorDoc) still give issues but the functions work when ran from the web page. I added the relevant sources to the service worker and merged the work Dharian and I had done. I uploaded the app as version-0.3.4-Jose to Github.(5hrs)
+### 2. 17/11/2020- I managed to fix the tests for the previously mentioned functions. I also added a test for getUserCallback() which passed.I then worked on adding the functionality to retrieve tutors from the firebase database and display them on the tutor page. I created tests for and implemented the functions getTutors(), createTutor(), addTutors() and storeName(). After all tests passed I uploaded the app as version-0.3.5-Jose to Github.(6 hrs)
