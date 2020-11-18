@@ -1,7 +1,7 @@
 # Comp3613-project-journal
 
 ## Week 3
-### 1. I helped work on the project initiation document, updating the description and project objectives. I had suggested the idea for the covid news and educational material provider. I added some extra lines to the project description/specification and fixed some grammatical errors.
+### 1. I helped work on the project initiation document, updating the description and project objectives. I had suggested the idea for the covid news and educational material provider. I added some extra lines to the project description and objectives and fixed some grammatical errors.
 
 ## Week 4
 ### 1. I helped work on project requirements, specifying implementations for contacting tutors and handling help desk services. I specified that tutors should have a page which displays their information.
