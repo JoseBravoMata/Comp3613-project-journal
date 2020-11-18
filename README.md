@@ -1,10 +1,10 @@
 # Comp3613-project-journal
 
 ## Week 3
-### 1. I helped work on the project initiation document, updating the description and project objectives.
+### 1. I helped work on the project initiation document, updating the description and project objectives. I had suggested the idea for the covid news and educational material provider. I added some extra lines to the project description/specification and fixed some grammatical errors.
 
 ## Week 4
-### 1. I helped work on project requirements, specifying implementations for contacting tutors, handling help desk services,etc.
+### 1. I helped work on project requirements, specifying implementations for contacting tutors and handling help desk services. I specified that tutors should have a page which displays their information.
 ### 2. I was declared the product owner.
 
 ## Week 5
@@ -14,16 +14,16 @@
 ### 4. 17/10/2020- I worked on creating use cases.
 
 ## Week 6
-### 1. 19/10/2020- I finished working on the use cases(2 1/2hrs)
+### 1. 19/10/2020- I finished working on the use cases. I created the diagrams for login related functions, handling documents, help desk/tutor services and the covid nees functions.(2 1/2hrs)
 ### 2. 19/10/2020- I finished working on use case diagrams.
-### 3. 20/10/2020- I finished work on the sequence diagram (1hr).
+### 3. 20/10/2020- I finished work on the sequence diagram for the post covid news case.(1hr).
 
 ## Week 7
 ### 1. 28/10/2020- I started to work on the product backlog(user stories)(<1hr).
 ### 2. 30/10/2020- I worked on the product backlog(user stores)(<1hr).
 
 ## Week 8
-### 1. 03/11/2020- I started work on the login page and I commited the login page to github.(1hr)
+### 1. 03/11/2020- I started work on the login page and I commited the login page to github. I applied the firebase scripts for starting firebase and also for authentication. I reused code from another project outside UWI for firebase functions.(1hr)
 ### 2. 04/11/2020- I integrated Jasmine(javascript tesing framework) for testing and tested the functions (createUser() and signIn()) from authentication.js. I implemented tests for registerUser and registerTutor and wrote up the functions. I integrated the login to the Home.html page that Dharian made. I uploaded version(0.0.2) of the app to the github(this version contains the log in). I updated the Trello board that firebase was integrated. (6 hrs total)
 ### 3. 05/11/2020- I integrated the firebase database.I applied tests for and added the functions setUpUserDoc and setUpTutorDoc to the register page, I fixed and refactored all code for the register page until all tests had a pass. I partially fixed the UI for the log in and register pages. I linked the Home.html page to the index and register pages. After everything was finished I uploaded the app as the version 0.0.2 to the github. I updated thd Trello board to show the login and register pages were completed for this sprint.(4 hrs)
 
