@@ -40,7 +40,7 @@
 
 ## Week 11
 ### 1. 23/11/2020- I added the github repository to Travis CI(continous integration) and deleted the license for the repository.
-### 2. 24/11/2020- I started work on the educational metarials page. I copied the tutorpage to use it for the page. I added the list of educational material level options to the ui using materialize and fixed the links of the other pages to go to the educational material page.(1hr)
+### 2. 24/11/2020- I started work on the educational metarials page. I copied the tutorpage to reuse it for making the page. I added the list of educational material level options to the ui using materialize and fixed the links of the other pages to go to the educational material page.(1hr)
 
 
 
