@@ -41,6 +41,7 @@
 ## Week 11
 ### 1. 23/11/2020- I added the github repository to Travis CI(continous integration) and deleted the license for the repository.
 ### 2. 24/11/2020- I started work on the educational metarials page. I copied the tutorpage to reuse it for making the page. I added the list of educational material level options(primsry, seconday & tertiary) to the ui using materialize and fixed the links of the other pages to go to the educational material page.(1hr)
+### 3. 26/11/2020- I added tests and implemented the functions showMaterial(), back(), createMaterialLink() and getMaterial(). I modified the ui stylings of the header foe the list, I ran all tests and they all passed. I found free educational material online to link to using the educational material page. I set up the collection for educational material on firebase and also stored some material in fieebase storage. Once I had finished I pushed all the files to branch "version-0.4.3-Jose" of the Github repository.
 
 
 
